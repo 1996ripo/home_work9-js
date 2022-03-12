@@ -1,0 +1,18 @@
+img {
+    margin-top: 20px;
+    border-radius: 5px;
+
+}
+
+select {
+    height: 40px;
+    width: 250px;
+    border-radius: 5px;
+    background-color:cornflowerblue;
+    color: white;
+    font-size: 25px;
+}
+
+div{
+    margin: 10px;
+}

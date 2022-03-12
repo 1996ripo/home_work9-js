@@ -1,0 +1,37 @@
+.break {
+    border: 5px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+li {
+    width: 400px;
+    height: 200px;
+    list-style: none;
+    overflow: scroll;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+li {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+a {
+    margin: 4px;
+    padding: 3px 7px;
+    background-color: rgb(27, 32, 32);
+    color: white;
+   text-decoration: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.p-links{
+    margin-top: 20px;
+}

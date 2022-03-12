@@ -1,0 +1,17 @@
+#root >div {
+    width: 500px;
+    border-radius: 10px;
+    border: solid rgb(129, 129, 129);
+    padding: 20px;
+    margin: 20px;
+}
+
+p{
+    background-color:  rgb(206, 205, 205);
+    padding-right: 5px;
+    
+}
+
+span{
+    background-color: white;
+}

@@ -1,0 +1,17 @@
+ul {
+    margin: auto;
+}
+
+li {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    overflow: scroll;
+}
+
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
